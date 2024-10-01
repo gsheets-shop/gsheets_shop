@@ -1,1 +1,2 @@
-# gsheets_shop
+# GSheets.shop
+Google Sheets systems for agencies and business owners
