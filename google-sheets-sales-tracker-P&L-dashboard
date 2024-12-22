@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Sheets eCommerce Sales Tracker - P&L Dashboard Template</title>
+
+    <meta name="publisher" content="GSheets Shop">
+    <meta name="author" content="GSheets Shop">
+    <meta name="description" content="Track eCommerce sales & profits with our Google Sheets P&L Dashboard. Perfect for online stores and digital products - pay once, use forever!"
+    
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Google Sheets P&L Tracker - Simple spreadsheet tracker for eCommerce">
+    <meta property="og:description" content="Spreadsheet-based Sales P&L tracker template for Google Sheets. Pay once, use forever: perfect for eCommerce and digital products!">
+    <meta property="og:image" content="https://vip.graphics/wp-content/uploads/2022/06/google-sheets-PL-tracker-1024x683.png">
+    <meta property="og:site_name" content="GSheets Shop">
+    <meta property="og:locale" content="en_US">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Google Sheets P&L Tracker - Simple spreadsheet tracker for eCommerce">
+    <meta name="twitter:description" content="Spreadsheet-based Sales P&L tracker template for Google Sheets. Pay once, use forever: perfect for eCommerce and digital products!">
+    <meta name="twitter:image" content="https://vip.graphics/wp-content/uploads/2022/06/google-sheets-PL-tracker-1024x683.png">
+    
+    <meta name="theme-color" content="#57bb8a">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.png">
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        .hero-section {
+            background-color: #eeeeee;
+            color: #2f2f2f;
+            padding: 80px 0;
+        }
+        .feature-list {
+            font-size: 1.1rem;
+            margin: 2rem 0;
+        }
+        .feature-list li {
+            margin-bottom: 0.5rem;
+        }
+        .product-images img {
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .price-tag {
+            font-size: 2.5rem;
+            color: #57bb8a;
+        }
+        .testimonial {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 2rem;
+            margin: 1rem 0;
+        }
+        .pricing-option {
+            border: 1px solid #333;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            color: #333;
+            cursor: pointer;
+            text-decoration: none;
+            display: block;
+            transition: all 0.2s ease;
+        }
+        .pricing-option:hover {
+            border-color: #57bb8a;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a class="navbar-brand header-logo" href="/">
+                <img src="/img/gsheets-shop-logo.png" alt="GSheets.shop logo">
+                gsheets.shop
+            </a>
+            <a href="/contact" class="text-dark">Hire us</a>
+        </div>
+    </nav>
+
+    <section class="hero-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="p-2 pl-0 d-flex align-items-center mb-2">
+                        <span class="me-2 mr-2 accent">★★★★★</span>
+                        <span class="">Perfect for eCommerce & digital products</span>
+                    </div>
+                    <h1 class="mb-2">Google Sheets P&L Tracker</h1>
+                    <h4 class="subtitle mb-4">Spreadsheet-based Sales P&L tracker template for Google Sheets. Pay once, use forever: perfect for eCommerce and digital products!</h4>
+
+                    <a href="https://vip.lemonsqueezy.com/checkout/buy/abf0c4f3-b05f-43bf-961c-9a23fdb689d4" class="btn btn-custom" target="_blank">
+                        <i class="fas fa-download mr-2"></i>Download Now
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://vip.graphics/wp-content/uploads/2022/06/google-sheets-PL-tracker-1024x683.png" alt="Google Sheets P&L Tracker Preview" class="img-fluid rounded my-3">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <main class="container my-5">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="guide-links">
+                    <a href="https://vip.graphics/google-sheets-pl/?ref=vg" target="_blank"><strong>📖 Read the guide</strong></a>
+                </div>
+<h4 class="mt-4 mb-3">Track your eCommerce sales and marketing ROI with this powerful Google Sheets profit &amp; loss (P&amp;L) dashboard template.</h4>
+
+                <p>This P&amp;L tracking spreadsheet template is designed for online sellers (ie. digital products creators and eCommerce brands) to help keep track of your sales &amp; marketing performance so you can optimize your marketing efforts and maximize profits.</p>
+
+                <p>Most marketing optimization &amp; attribution software lacks the flexibility and simplicity of spreadsheets. Ever wish you could easily create and filter a pivot table of all your sales data? Dream of having a single source of truth for your weekly, monthly, and annual profits? With this 100%-customizable Google Sheets P&amp;L tracking template, you can do exactly that &amp; more!</p>                    <a href="https://docs.google.com/spreadsheets/d/1Ln0nIq7wfDXUUafoHrwSmfCbyRjLfDm1ISzyW9vNLyQ/#gid=1869265553" target="_blank"><strong>See the preview</strong></a>
+                    <strong>/</strong>
+                    <a href="https://vip.graphics/google-sheets-crm/?ref=prod&amp;swcfpc=1" target="_blank"><strong>Read the guide</strong></a>
+                <h2 class="my-4">Robust P&L tracker: created for our own eCommerce store with thousands of sales.</h2>
+                <p class="subtitle ml-0">This template was copied directly from the Google Sheet used for our successful digital products business with over 2,000+ customers, including the likes of award-winning startups and Fortune 100 companies.</p>
+                
+                <ul class="feature-list">
+                    <li>Quarterly + annual dashboards</li>
+                    <li>Advanced profit & loss tracking</li>
+                    <li>Weekly profit + ad reporting</li>
+                    <li>Product-specific drilldowns</li>
+                    <li>Breakdowns by variations & sales channels</li>
+                    <li>Pivot tables for ad scheduling</li>
+                    <li>Actionable insights & charts</li>
+                </ul>
+
+                <div class="product-images">
+                    <img src="https://vip.graphics/wp-content/uploads/2022/06/google-sheets-PL-tracker_cover-1024x683.png" alt="P&L Tracker Features" class="img-fluid">
+                    <img src="https://vip.graphics/wp-content/uploads/2022/06/Google-Sheets-PL_features-1-1024x683.png" alt="P&L Dashboard" class="img-fluid">
+                </div>
+
+                <h3 class="mt-5"><strong>Pay $39 just *<em>once</em>*, not <s>$100's per month</s>!</strong></h3>
+                <p><strong>This is not a subscription for software: </strong>pay just once, and get your own Sales + P&L Tracker for life!</p>
+                <p>Realistically, this product could've been priced at $200+ — for comparison, the most popular CRMs like HubSpot and Salesforce and attribution tools like Triple Whale cost <em>thousands of dollars </em>every month.</p>
+                
+                <!-- Video section commented out for later use
+                <div class="youtube-embed">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                -->
+
+                <h3 class="mt-5"><strong>Enjoy lifetime updates <u>free</u></strong></h3>
+                <p>We're constantly updating this product: we use this very same Google Sheets template every day for our own businesses, so we are always making improvements!</p>
+
+                <p>Keep an eye on your advertising ROI and track of your weekly profit & loss with this easy-to-use Google Sheets spreadsheet. Rely on this dashboard as your single source of truth for ad spend insights, growth opportunities, quarterly & annual trends, and all the data you need to grow your online business.</p>
+
+                <div class="guide-links">
+                    <a href="https://vip.graphics/google-sheets-pl/?ref=vg" target="_blank"><strong>📖 Read the guide →</strong></a>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card sticky-top mt-3" style="top: 2rem;">
+                    <div class="card-body">
+                        <a href="https://vip.lemonsqueezy.com/checkout/buy/abf0c4f3-b05f-43bf-961c-9a23fdb689d4" class="pricing-option" target="_blank">
+                            <h5>Single License - $39.00</h5>
+                            <p class="mb-0">Use for only one (1) individual (no sharing).</p>
+                        </a>
+
+                        <a href="https://vip.lemonsqueezy.com/buy/c8170647-14fb-4f55-a32d-7c82f107b57a" class="pricing-option" target="_blank">
+                            <h5>Team License - $79.00</h5>
+                            <p class="mb-0">For teams & businesses</p>
+                        </a>
+
+                        <div class="mt-4">
+                            <h5>Includes:</h5>
+                            <ul>
+                                <li>Lifetime updates</li>
+                                <li>Full documentation</li>
+                                <li>Video tutorials</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <section class="bottom-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <h2>Ready to optimize your business profits?</h2>
+                    <p class="subtitle">Join others who've transformed their profit tracking with our Google Sheets P&L Tracker.</p>
+                    <a href="https://vip.lemonsqueezy.com/checkout/buy/abf0c4f3-b05f-43bf-961c-9a23fdb689d4" class="btn btn-custom">
+                        <i class="fas fa-download mr-2"></i>Download Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="text-center">
+        <div class="container">
+            <div class="mt-3">
+                <p>Copyright © 2024. All rights reserved. No re-sale or re-distribution allowed. <a href="//vip.graphics/licenses" target="_blank">See license terms</a>.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
